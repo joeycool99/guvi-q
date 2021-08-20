@@ -45,7 +45,7 @@ document.body.append(div)
 
 
 button.addEventListener("click", () => {
-    form.setAttribute("action", "index1.html")
+    form.setAttribute("action", "./index1.html")
     form.setAttribute("method", "POST")
 })
 
