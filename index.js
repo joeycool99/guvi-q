@@ -45,7 +45,7 @@ document.body.append(div)
 
 
 button.addEventListener("click", () => {
-    form.setAttribute("action", "https://raw.githubusercontent.com/joeycool99/guvi-q/main/index1.html")
+    form.setAttribute("action", "https://github.com/joeycool99/guvi-q/blob/main/index1.html")
     form.setAttribute("method", "POST")
 })
 
